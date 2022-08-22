@@ -1,4 +1,4 @@
-<h5>Hey Everyone 👋</h5>
+<h3>Hey Everyone 👋</h3>
 
 Hi. I'm Murat, a software developer specialist who likes to work with JavaScript(React)/CSS/HTML/jQuery/AJAX/PHP.(+6 years)
 
@@ -16,8 +16,12 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 ⚡ Developer motto: First do it, then do it right, then do it better.
 
 
-<h5>Languages and Tools:</h5>
+<h3>Languages and Tools:</h3>
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:30px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style="width:30px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:30px">
 
 
