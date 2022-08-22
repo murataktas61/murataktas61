@@ -6,14 +6,14 @@ Hi. I'm Murat, a software developer specialist who likes to work with JavaScript
  
 I've been working on a web front-end development, best practices (React.js & Vue.js) for the past years.
 
-These days I'm passionate about blockchain technologies and mainly focusing on Smart Contract/Dapp/DeFi/NFT/DAO development.
+These days I'm passionate about blockchain technologies and mainly focusing on Smart Contract/Dapp/DeFi/NFT/DAO development.<br>
 
-🌱 I am working on web performance optimization and UI improvements (React.js & Vue.js).
-🌱 I am currently focusing on blockchain technologies.
-🤔 I would like to help create Dapp/DeFi/NFT/DAO products.
-📫 How to reach me: aktasmuratt7@gmail.com
-😄 Pronouns: He / His
-⚡ Developer motto: First do it, then do it right, then do it better.
+🌱 I am working on web performance optimization and UI improvements (React.js & Vue.js).<br>
+🌱 I am currently focusing on blockchain technologies.<br>
+🤔 I would like to help create Dapp/DeFi/NFT/DAO products.<br>
+📫 How to reach me: aktasmuratt7@gmail.com<br>
+😄 Pronouns: He / His<br>
+⚡ Developer motto: First do it, then do it right, then do it better.<br>
 
 
 <h3>Languages and Tools:</h3>
