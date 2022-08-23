@@ -39,6 +39,13 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   font-size: 30px;
   text-align: center;">1</div>
 </div>
+<div class="container">
+<div class="row">
+  <div class="col-lg-4">2</div>
+   <div class="col-lg-4">2</div>
+   <div class="col-lg-4">3</div>
+</div>
+  </div>
  
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:20px"></a>
 
