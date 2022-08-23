@@ -1,3 +1,16 @@
+<style>
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}</style>
+
 <h3>Hey Everyone 👋</h3>
 
 Hi. I'm Murat, a software developer specialist who likes to work with JavaScript(React)/CSS/HTML/jQuery/AJAX/PHP.(+6 years)
