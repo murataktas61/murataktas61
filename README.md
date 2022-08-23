@@ -20,12 +20,28 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
  
  <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:20px"></td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style="width:20px"</td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:20px"></td>
-       <td><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"  style="width:20px"></td>
-          <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  style="width:20px"></td>
-       <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  style="width:20px"></td>
+    <td>
+  
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:20px">
+     
+        </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="width:20px"
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:20px">
+    </td>
+       <td>
+             <a href="https://tailwindcss.com/docs/guides/create-react-app">
+         <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"  style="width:20px">
+          </a>
+    </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  style="width:20px">
+    </td>
+       <td>
+         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  style="width:20px">
+    </td>
   </tr>
 </table>
 
@@ -56,7 +72,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
  
   <table>
   <tr>
-    <td><a href=""><img src="https://camo.githubusercontent.com/4e3ac720a99def93e66a930374c80e8d063026050362e2887bfd89291c153717/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43492f43442d4769746875625f416374696f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"></a></td>
+    <td><img src="https://camo.githubusercontent.com/4e3ac720a99def93e66a930374c80e8d063026050362e2887bfd89291c153717/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43492f43442d4769746875625f416374696f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"></a></td>
     <td><img src="https://camo.githubusercontent.com/89bb2b84b39c609876eafe542bac7b6ea652db6e01ec3b9ae41d9a29bac7c9bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43492f43442d436972636c655f43492d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636972636c656369266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
 
   </tr>
