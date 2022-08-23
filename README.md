@@ -1,16 +1,3 @@
-<style>
-.column {
-  float: left;
-  width: 25%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}</style>
-
 <h3>Hey Everyone 👋</h3>
 
 Hi. I'm Murat, a software developer specialist who likes to work with JavaScript(React)/CSS/HTML/jQuery/AJAX/PHP.(+6 years)
@@ -31,11 +18,16 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 <h3>Languages and Tools:</h3>
 
-<div class="row">
-  <div class="column">1</div>
-  <div class="column">2</div>
-  <div class="column">3</div>
-  <div class="column">4</div>
+<div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
 </div>
 
  
