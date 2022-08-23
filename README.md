@@ -19,11 +19,18 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 <h3>Languages and Tools:</h3>
  
 
+ <table>
   <tr>
-    <th><img src=""></th>
-    <th>Contact</th>
-    <th>Country</th>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
   </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:20px"></td>
+    <td>Cell 5</td>
+    <td>Cell 6</td>
+  </tr>
+</table>
 
  
   <tr>
