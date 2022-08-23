@@ -18,7 +18,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 <h3>Languages and Tools:</h3>
 
-<div class="grid-container" stlye="d  display: grid;
+<div class="grid-container" stlye="display: grid;
   gap: 50px 100px;
   grid-template-columns: auto auto auto;
   background-color: #2196F3;
