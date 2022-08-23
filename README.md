@@ -20,15 +20,11 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
  
 
  <table>
-  <tr>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
-  </tr>
+ 
   <tr>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:20px"></td>
-    <td>Cell 5</td>
-    <td>Cell 6</td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style="width:20px"</td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:20px"></td>
   </tr>
 </table>
 
