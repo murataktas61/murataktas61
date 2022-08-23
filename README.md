@@ -18,7 +18,11 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 <h3>Languages and Tools:</h3>
 
-<div class="grid-container" stlye="display: grid;">
+<div class="grid-container" stlye="d  display: grid;
+  gap: 50px 100px;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;">
   <div class="grid-item" stlye="display: inline-grid;">1</div>
   <div class="grid-item" stlye="display: inline-grid;">2</div>
 </div>
