@@ -68,7 +68,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 </table>
 
 
-<h3>Other</h3>
+<h3>Find me elsewhere 🌎</h3>
 
  <table>
   <tr>
