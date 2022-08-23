@@ -31,7 +31,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   <div class="column">4</div>
 </div>
 
-<table>
+ 
   <tr>
     <th>Company</th>
     <th>Contact</th>
@@ -47,4 +47,4 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
-</table>
+ 
