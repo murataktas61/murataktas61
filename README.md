@@ -23,18 +23,22 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   grid-template-columns: auto auto auto;
   background-color: #2196F3;
   padding: 10px;">
-  <div class="grid-item" stlye=" background-color: rgba(255, 255, 255, 0.8);
+  <div class="grid-item" stlye="  background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   font-size: 30px;
   text-align: center;">1</div>
-  <div class="grid-item" stlye=" background-color: rgba(255, 255, 255, 0.8);
+    <div class="grid-item" stlye="  background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   font-size: 30px;
-  text-align: center;">2</div>
+  text-align: center;">1</div>
+  <div class="grid-item" stlye="  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;">1</div>
 </div>
-
  
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:20px"></a>
 
