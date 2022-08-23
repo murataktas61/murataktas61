@@ -20,7 +20,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
  
 
   <tr>
-    <th>Company</th>
+    <th><img src=""></th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
