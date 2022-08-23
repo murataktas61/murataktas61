@@ -26,7 +26,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     </td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:20px">
     </td>
-       <td><a href="https://tailwindcss.com/docs/guides/create-react-app"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"  style="width:20px">
+       <td><a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"  style="width:20px">
           </a>
     </td>
       <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  style="width:20px">
@@ -72,8 +72,8 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
  <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/murataktaş/"><img src="https://camo.githubusercontent.com/c9e313dc4126a884db2355f99eab596866a7e090b13019496e76b2475c838f52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e746f6e2d6b61726c6f76736b69792f"></a></td>
-    <td><a href="https://twitter.com/murtaktas7"><img src="https://camo.githubusercontent.com/2417acdaa0d0c812c440cd639375c66e65a606ac9802d0b161567a7690c6e9c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f616e746f6e6b61726c6f76736b6979"></a> </td>
+    <td><a href="https://www.linkedin.com/in/murataktaş/" target="_blank"><img src="https://camo.githubusercontent.com/c9e313dc4126a884db2355f99eab596866a7e090b13019496e76b2475c838f52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e746f6e2d6b61726c6f76736b69792f"></a></td>
+    <td><a href="https://twitter.com/murtaktas7" target="_blank"><img src="https://camo.githubusercontent.com/2417acdaa0d0c812c440cd639375c66e65a606ac9802d0b161567a7690c6e9c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f616e746f6e6b61726c6f76736b6979"></a> </td>
 
   </tr>
 </table>
