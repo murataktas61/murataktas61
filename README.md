@@ -18,7 +18,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 <h3>Languages and Tools:</h3>
 
-<div class="grid-container">
+<div class="grid-container" stlye="display: grid;">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
