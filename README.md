@@ -19,7 +19,11 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 <h3>Languages and Tools:</h3>
  
 
-
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
 
  
   <tr>
