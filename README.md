@@ -18,16 +18,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 <h3>Languages and Tools:</h3>
 
-<div class="row">
-  <div class="column" stlye=" float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px;">1</div>
- <div class="column" stlye=" float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px;">1</div>
-</div>
+ 
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style="width:20px"></a>
 
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style="width:20px"></a>
